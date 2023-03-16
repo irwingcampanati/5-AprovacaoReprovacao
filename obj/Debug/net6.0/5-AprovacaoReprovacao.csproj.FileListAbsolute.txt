@@ -1,0 +1,15 @@
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\bin\Debug\net6.0\5-AprovacaoReprovacao.exe
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\bin\Debug\net6.0\5-AprovacaoReprovacao.deps.json
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\bin\Debug\net6.0\5-AprovacaoReprovacao.runtimeconfig.json
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\bin\Debug\net6.0\5-AprovacaoReprovacao.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\bin\Debug\net6.0\5-AprovacaoReprovacao.pdb
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\obj\Debug\net6.0\5-AprovacaoReprovacao.csproj.AssemblyReference.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\obj\Debug\net6.0\5-AprovacaoReprovacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\obj\Debug\net6.0\5-AprovacaoReprovacao.AssemblyInfoInputs.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\obj\Debug\net6.0\5-AprovacaoReprovacao.AssemblyInfo.cs
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\obj\Debug\net6.0\5-AprovacaoReprovacao.csproj.CoreCompileInputs.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\obj\Debug\net6.0\5-AprovacaoReprovacao.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\obj\Debug\net6.0\refint\5-AprovacaoReprovacao.dll
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\obj\Debug\net6.0\5-AprovacaoReprovacao.pdb
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\obj\Debug\net6.0\5-AprovacaoReprovacao.genruntimeconfig.cache
+C:\Users\irwin\OneDrive\Documentos\GitHub\5-AprovacaoReprovacao\obj\Debug\net6.0\ref\5-AprovacaoReprovacao.dll
